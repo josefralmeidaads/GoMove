@@ -2,7 +2,7 @@ import { ThemeProvider } from 'styled-components';
 
 import { ChallengesProvider } from '../context/ChallengesContext';
 import { CountDownProvider} from '../context/CountDownContext';
-import theme from '../styles/themes/theme';
+import { theme } from '../styles/themes/theme';
 import GlobalTheme from '../styles/global';
 
 function MyApp({ Component, pageProps }) {

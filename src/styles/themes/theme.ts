@@ -1,5 +1,5 @@
 // eslint-disable-next-line
-export default {
+export const theme = {
   colors: {
     red_dark: "#E81E3F",
     white: "#fff",

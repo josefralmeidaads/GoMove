@@ -5,7 +5,7 @@ import {
   SectionUser,
   SecaoDireita,
   SecaoEsquerda, 
-} from './styles';
+} from '../styles/styles';
 import ExperienceBar from '../components/ExperienceBar';
 import Profile from '../components/Profile';
 import CompletedChallenges from '../components/CompletedChallenges';
